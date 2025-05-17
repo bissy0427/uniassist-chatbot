@@ -7,3 +7,4 @@ beautifulsoup4
 sentence-transformers
 faiss-cpu
 python-dotenv
+gunicorn
